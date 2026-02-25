@@ -1,0 +1,15 @@
+h1 {
+  color: #9333ea;
+}
+p {
+  color: #6b7280;
+  font-size: 18px;
+}
+.fancy {
+  color: #0c8806;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #f5fef2;
+  padding: 8px;
+  border-radius: 8px;
+}
